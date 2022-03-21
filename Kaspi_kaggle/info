@@ -1,5 +1,0 @@
-This project was done for participating in the Kaggle competition organized by Kaspi.kz. 
-The input data does not have any missing values and a lot of outliers according to the provider.
-The competition was focused on evaluating the skills of creating different models. 
-The only condition for the competition is to not have a salary of more than 1000000 in the submission file.
-In this project, I used Simple Linear Regression and Catboost Regressor.
